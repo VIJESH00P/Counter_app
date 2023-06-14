@@ -1,0 +1,15 @@
+h1{ 
+  font-family:'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  font-size: 89px;
+}
+h2{
+  font-family:'Source Sans Pro', sans-serif;
+  font-weight: 900;
+  font-size: 89px;
+ 
+}
+h2:hover{
+  color:yellow
+}
+
